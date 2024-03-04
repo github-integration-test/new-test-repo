@@ -9,7 +9,7 @@ fields:
 links:
   - name: ''
     type: REPOSITORY
-    url: 'https://github.com/github-integration-test/new-test-repo/'
+    url: 'https://github.com/github-integration-test/new-test-repo'
 relationships: {}
 labels: null
 customFields:
