@@ -1,5 +1,5 @@
-name: test-trailing-slash
-id: 'ari:cloud:compass:0c387849-09ee-4955-89d3-d4ad0b8e0204:component/77f8811c-b852-4443-8610-f3177c996bb4/5058de6b-9394-45f2-af0c-166bf7a82361'
+name: fdsfdsfdsgfdgdffesfrgf
+id: 'ari:cloud:compass:25991689-b4d3-49b0-94ed-550da506ab0c:component/89f6a7e9-4b87-41cb-81ee-ca6b1e81af02/088a96fa-9e98-414d-9be3-7858a5963c7b'
 description: null
 configVersion: 1
 typeId: SERVICE
@@ -9,15 +9,13 @@ fields:
 links:
   - name: ''
     type: REPOSITORY
-    url: 'https://github.com/github-integration-test/new-test-repo'
+    url: 'https://github.com/github-integration-test/new-test-repo/'
 relationships: {}
-labels: null
+labels:
+  - synced-with-jsm
 customFields:
-  - name: KOKO ref
+  - name: toto
     type: text
-    value: null
-  - name: lolo
-    type: user
     value: null
 
 # Learn more about formatting compass.yml:
